@@ -90,3 +90,20 @@ Each course stores:
 
 ```bash
 g++ -std=c++17 -O3 -march=native high_performance_allocation_engine.cpp -o engine
+---
+
+## Example Output
+
+```text
+--- ALLOCATION RESULTS ---
+
+Course: CS101
+  - STU_ALICE (CGPA: 9.8)
+  - STU_CHARLIE (CGPA: 9.2)
+
+Course: CS201
+  - STU_ALICE (CGPA: 9.8)
+  - STU_CHARLIE (CGPA: 9.2)
+
+Course: CS301
+  - STU_BOB (CGPA: 7.5)
