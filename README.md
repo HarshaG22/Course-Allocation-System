@@ -90,6 +90,8 @@ Each course stores:
 
 ```bash
 g++ -std=c++17 -O3 -march=native high_performance_allocation_engine.cpp -o engine
+```
+
 ---
 
 ## Example Output
@@ -107,3 +109,27 @@ Course: CS201
 
 Course: CS301
   - STU_BOB (CGPA: 7.5)
+```
+
+---
+
+## Learning Outcomes
+
+This project explores:
+
+- Stable matching algorithms
+- Priority queues and heaps
+- Bitmask-based constraint checking
+- Cache-friendly data structures
+- Data-oriented design in C++
+- Capacity-constrained allocation systems
+
+---
+
+## Author
+
+**Harsha G**
+IIT (BHU) Varanasi
+
+B.Tech Electronics Engineering  
+IIT (BHU) Varanasi
