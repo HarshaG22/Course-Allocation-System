@@ -132,6 +132,3 @@ This project explores:
 
 IIT (BHU) Varanasi
 
-
-B.Tech Electronics Engineering  
-IIT (BHU) Varanasi
